@@ -8,6 +8,6 @@
 	<link rel="stylesheet" href="style.css" />
 </svelte:head>
 
-<h1>Tech Track Boilerplate</h1>
+<h1>Tech Track Boilerplate 😀</h1>
 
 <LinePlot />
