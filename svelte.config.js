@@ -1,4 +1,7 @@
 //import adapter from '@sveltejs/adapter-auto';
+
+// npm i -D @sveltejs/adapter-static
+// in src/routes/+layout.js: export const prerender = true;
 import adapter from '@sveltejs/adapter-static';
 
 /** @type {import('@sveltejs/kit').Config} */
